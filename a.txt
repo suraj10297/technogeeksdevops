@@ -1,9 +1,6 @@
 hello ! 
-<<<<<<< HEAD
-
 welcome to Github
 
 Adding another line
-=======
-welcome to Github
->>>>>>> 46d897fcec931b2d774340c46082f0ca439dea56
+
+awsss
